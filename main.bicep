@@ -1,5 +1,5 @@
 @description('The name of the function app that you wish to create.')
-param appName string = 'SriramFunc'
+param appName string = 'SriramDurableFunctiongit'
 
 @description('Storage Account type')
 @allowed([
